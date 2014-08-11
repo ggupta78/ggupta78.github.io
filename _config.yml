@@ -1,0 +1,12 @@
+# Site settings
+title: Gautam's Blog
+email: ggupta78@gmail.com
+description: "Gautam's awesome blogging attempt using Jekyll."
+baseurl: ""
+url: "http://gautamgupta.net"
+twitter_username: ggupta78
+github_username:  ggupta78
+
+# Build settings
+markdown: kramdown
+permalink: pretty
